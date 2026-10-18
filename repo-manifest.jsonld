@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/micropython/micropython-lib/commit/90028be0829c6e988b5e239b28f39fb91b6b20e2",
       "git:hexsha": "90028be0829c6e988b5e239b28f39fb91b6b20e2",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T00:07:50.121539+00:00"
     },
     {
       "@id": "https://repolex.ai/r/micropython/micropython-lib/commit/6f1823b60ef05339feed78001895aaef8810dee2",

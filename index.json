@@ -1,0 +1,11 @@
+{
+  "org": "micropython",
+  "repo": "micropython-lib",
+  "versions": [
+    {
+      "commit": "90028be0829c6e988b5e239b28f39fb91b6b20e2",
+      "tag": "",
+      "parsed_at": "2026-10-18T00:07:50.122163+00:00"
+    }
+  ]
+}
